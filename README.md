@@ -10,4 +10,4 @@ This is used for educational purposes only. Use responsibly
 -Keyboard library 
 
 ## Install
-'pip install keyboard'
+`pip install keyboard`
