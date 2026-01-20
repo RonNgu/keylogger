@@ -9,4 +9,5 @@ This is used for educational purposes only. Use responsibly
 -Python 3.XX
 -Keyboard library 
 
+## Install
 'pip install keyboard'
